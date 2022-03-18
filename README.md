@@ -4,7 +4,7 @@ This project shows the efficiency of BPTG14 for evaluating decision trees on pri
 
 ## IDE
 
-In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project mor conveniently.
+In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project more conveniently.
 
 ## Dependencies
 
